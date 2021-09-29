@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahin Mahfiz
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python,ML
+- 👀 I’m interested in coding,reading books,travelling,eating
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "mmahinm10@gmail.com"
 
