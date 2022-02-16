@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahin Mahfiz
 - 👀 I’m interested in coding,reading books,travelling,eating
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning laravel
+- 💞️ I’m looking to collaborate on any website development project
 - 📫 How to reach me "mmahinm10@gmail.com"
 
 <!---
